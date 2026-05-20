@@ -1,0 +1,5 @@
+.venv/
+downloads/
+video_downloads/
+__pycache__/
+*.pyc
