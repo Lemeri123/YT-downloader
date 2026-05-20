@@ -2,6 +2,14 @@
 
 Download every track from a YouTube playlist as **MP3** or **MP4**, similar to y2mate but for full playlists.
 
+# How to use
+1. Paste video/playlist URL from youtube
+2. For playlist - select whole playlist. For single videos - select single video only
+3. Select mp3/mp4 format you want to download
+4. Paste folder directory you want files to be downloaded in
+5. Click start download and wait
+
+
 ## Requirements
 
 - Python 3 (`python3` on Ubuntu — there is no `python` command by default)
